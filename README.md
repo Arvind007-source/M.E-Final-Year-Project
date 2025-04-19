@@ -103,17 +103,17 @@ pip install -r requirements.txt
 
 ### Step 4: Run on Kaggle/Colab/Jupyter
 If using Kaggle:
--Go to Kaggle Notebooks.
--Create a new notebook.
--Enable GPU: Settings → Accelerator → GPU
--Clone the repo and start executing the notebook cells.
+- Go to Kaggle Notebooks.
+- Create a new notebook.
+- Enable GPU: Settings → Accelerator → GPU
+- Clone the repo and start executing the notebook cells.
 
 If using Colab:
 ```bash
 git clone https://github.com/Arvind007-source/M.E-Final-Year-Project.git
 ```
--Mount Google Drive if needed.
--Enable GPU: Runtime → Change Runtime Type → GPU
+- Mount Google Drive if needed.
+- Enable GPU: Runtime → Change Runtime Type → GPU
 
 If using Jupyter:
 ```bash
