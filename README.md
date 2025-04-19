@@ -27,8 +27,6 @@ The data helps improve the robustness and generalizability of autonomous driving
 
 ### Dataset URL:
 - [KITTI on Kaggle](https://www.kaggle.com/datasets/klemenko/kitti-dataset)
-- [GitHub Source](https://github.com/Arvind007-source/M.E-Final-Year-Project.git)
-
 ---
 
 ## 💻 Software Requirements
@@ -99,6 +97,27 @@ git clone https://github.com/Arvind007-source/M.E-Final-Year-Project.git
 ```bash
 pip install -r requirements.txt
 ```
+### Step 3:  Dataset Access
+- Download the KITTI Dataset from Kaggle or mount from your local directory.
+- Place data in the appropriate /data folder as referenced in the code.
 
+### Step 4: Run on Kaggle/Colab/Jupyter
+If using Kaggle:
+-Go to Kaggle Notebooks.
+-Create a new notebook.
+-Enable GPU: Settings → Accelerator → GPU
+-Clone the repo and start executing the notebook cells.
+
+If using Colab:
+```bash
+git clone https://github.com/Arvind007-source/M.E-Final-Year-Project.git
+```
+-Mount Google Drive if needed.
+-Enable GPU: Runtime → Change Runtime Type → GPU
+
+If using Jupyter:
+```bash
+jupyter notebook
+```
 
 
