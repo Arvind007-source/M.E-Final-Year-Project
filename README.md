@@ -94,4 +94,11 @@ The data helps improve the robustness and generalizability of autonomous driving
 ### Step 1: Clone the Project Repository
 ```bash
 git clone https://github.com/Arvind007-source/M.E-Final-Year-Project.git
+```
+### Step 2: Set Up Environment
+```bash
+pip install -r requirements.txt
+```
+
+
 
