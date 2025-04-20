@@ -1,4 +1,4 @@
-# M.E Final Year Project – Autonomous Driving using KITTI Dataset and Generative AI
+# M.E Final Year Project – Generative AI And Large Language Models For Synthethic Data Generation In Autonomous Vehicles Navigation
 
 ## 📌 Project Overview
 
